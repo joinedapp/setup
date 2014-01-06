@@ -7,6 +7,7 @@
 sudo apt-get install -y git
 sudo apt-get install -y curl
 sudo apt-get install -y tree
+sudo apt-get install mysql-client
 curl https://raw.github.com/creationix/nvm/master/install.sh | sh
 
 # Load nvm and install latest production node
