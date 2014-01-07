@@ -16,6 +16,13 @@ source $HOME/.nvm/nvm.sh
 nvm install v0.10.12
 nvm use v0.10.12
 
+# amazon SDK for node.js
+npm install aws-sdk
+
+# node.js client implementing mysql
+# (https://github.com/felixge/node-mysql)
+npm install mysql@2.0.0-rc1
+
 # Install jshint to allow checking of JS code within emacs
 # http://jshint.com/
 npm install -g jshint
