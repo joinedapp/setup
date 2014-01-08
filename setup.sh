@@ -23,6 +23,13 @@ npm install aws-sdk
 # (https://github.com/felixge/node-mysql)
 npm install mysql@2.0.0-rc1
 
+# ORM sequelize
+sudo npm install sequelize
+sudo npm install mysql
+
+# async
+npm install async
+
 # Install jshint to allow checking of JS code within emacs
 # http://jshint.com/
 npm install -g jshint
