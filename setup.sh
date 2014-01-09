@@ -27,6 +27,12 @@ npm install mysql@2.0.0-rc1
 sudo npm install sequelize
 sudo npm install mysql
 
+# password hash
+sudo npm install password-hash
+
+# ejs
+sudo npm install ejs
+
 # async
 npm install async
 
