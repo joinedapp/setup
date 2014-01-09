@@ -16,6 +16,9 @@ source $HOME/.nvm/nvm.sh
 nvm install v0.10.12
 nvm use v0.10.12
 
+# websocket (socket.io)
+sudo npm install express jade socket.io
+
 # amazon SDK for node.js
 npm install aws-sdk
 
