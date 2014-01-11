@@ -16,6 +16,12 @@ source $HOME/.nvm/nvm.sh
 nvm install v0.10.12
 nvm use v0.10.12
 
+# uploading files asynchronously
+npm install formidable@latest
+
+# uploading to S3 bucket
+npm install alleup
+
 # websocket (socket.io)
 sudo npm install express jade socket.io
 
