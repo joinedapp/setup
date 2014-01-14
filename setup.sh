@@ -21,6 +21,8 @@ npm install formidable@latest
 
 # uploading to S3 bucket
 npm install alleup
+# binaries for image resize
+sudo apt-get install imagemagick 
 
 # websocket (socket.io)
 sudo npm install express jade socket.io
