@@ -16,7 +16,10 @@ source $HOME/.nvm/nvm.sh
 nvm install v0.10.12
 nvm use v0.10.12
 
-# mime 
+# knox, amazon S3 client
+npm install knox
+ 
+# get mime types 
 npm install mime
 
 # uploading files asynchronously
