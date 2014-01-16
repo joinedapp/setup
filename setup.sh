@@ -16,6 +16,9 @@ source $HOME/.nvm/nvm.sh
 nvm install v0.10.12
 nvm use v0.10.12
 
+# mime 
+npm install mime
+
 # uploading files asynchronously
 npm install formidable@latest
 
