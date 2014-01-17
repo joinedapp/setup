@@ -16,6 +16,13 @@ source $HOME/.nvm/nvm.sh
 nvm install v0.10.12
 nvm use v0.10.12
 
+#passport for openid/oath
+npm install passport
+npm install passport-facebook
+npm install passport-twitter
+npm install passport-google
+
+
 # knox, amazon S3 client
 npm install knox
  
@@ -35,6 +42,9 @@ sudo npm install express jade socket.io
 
 # amazon SDK for node.js
 npm install aws-sdk
+
+# object modeler for dynamodb
+npm install dynamodb-model
 
 # node.js client implementing mysql
 # (https://github.com/felixge/node-mysql)
