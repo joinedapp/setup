@@ -20,8 +20,9 @@ nvm use v0.10.12
 npm install passport
 npm install passport-facebook
 npm install passport-twitter
+npm install passport-linkedin
 npm install passport-google
-
+npm install passport-local
 
 # knox, amazon S3 client
 npm install knox
